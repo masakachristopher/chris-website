@@ -22,9 +22,9 @@
                     <li class="nav-item">
                         <a class="nav-link navbar-brand" href="index.php?option=about">home</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link navbar-brand" href="index.php?option=blog">blog</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item ">
                         <a class="nav-link navbar-brand" href="index.php?option=project">projects</a>
                     </li>
