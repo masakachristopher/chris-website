@@ -1,16 +1,19 @@
 
 :root{
-    --main-pink: #ff004d;
-    --main-blue: #00adb5;
-    --main-dark: black;
+    --colorpink: rgb(148, 74, 182);
+    --colorblue: #00adb5;
+    --colordark: rgb(19, 6, 6);
+    --colorsilver: rgb(224, 213, 213);
+    --colordblue:rgb(52, 52, 148);
+    --colorlight:rgb(5, 81, 83);
     
   }
   
   h1{
-    font-size: 4.5rem;
+    font-size: 5.0rem;
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
-    color: var(--main-pink);
+    color: var(--colordblue);;
     display: inline-block;
   }
   
@@ -22,21 +25,21 @@
   
   
   h1:hover{
-    color:silver;
+    color:var(--colorsilver);;
   }
   h2:hover{
-      color: silver;
+      color:var(--colorsilver);;
   }
 
   h3:hover{
-      color:silver;
+      color:var(--colorsilver);;
   }
   h2{
     font-size: 3.0rem;
     margin-top: 15px;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
-    color: var(--main-blue);;
+    color: var(--colorblue);;
     display: inline-block;
     position: relative;
 
@@ -48,7 +51,7 @@
     margin-top: 15px;
     font-family: 'Poppins', sans-serif;
     font-weight: 450;
-    color: var(--main-blue);;
+    color: var(--colorblue);;
     display: inline-block;
     position: relative;
 
@@ -65,7 +68,7 @@
     margin-top: 12px;
     font-family: 'Poppins', sans-serif;
     font-weight: 450;
-    color: peachpuff;
+    color: var(--colorlight);;
     display: inline-block;
     
 
@@ -76,7 +79,6 @@
   }
   a:hover,
   ul a:hover{
-    /* color: var(--main-pink);; */
     color: beige;
   }
   
@@ -96,30 +98,28 @@
   
   body{
     font-family: 'Poppins', sans-serif;
-    background-color: var(--main-dark);;
-    color: #fff; 
+    background-color: var(--colordark);;
+    color:silver; 
     font-size: 15px;
-    /* overflow-y: hidden; */
   }
   
   h1::selection,
   p::selection{
     color: #000;
-    background: var(--main-blue);;
+    background: var(--colorblue);;
   }
   
-  /* header */
-  
+    
   .logo{
-    width: 60px;
-    height: 60px;
+    width: 90px;
+    height: 80px;
   }
   
   li{
     padding: 3px;
   }
     
-  /* about */
+  /* about page */
   
   .headline{
     font-size: 4rem;
@@ -131,7 +131,7 @@
     }
   }
   
-  /* blog */
+  /* blog page */
   
   .author{
     font-size: 12px;
@@ -139,7 +139,7 @@
   
   .blog{
     min-height: 430px;
-    border: 2px solid var(--main-blue);;
+    border: 2px solid var(--colorblue);;
     padding: 20px;
     border-radius: 5px;
   }
@@ -151,7 +151,7 @@
     font-family: "Poppins", sans-serif;
   }
   .blog:hover p{
-    color: #fff;
+    color:var(--colorpink);
   }
   
   article h1{
@@ -173,40 +173,31 @@
     margin: 25px;
   }
   
-  /* projects */
-  
+    
   .portfolio{
-    height: 230px;
+    height: 200px;
     border-top: 1px solid; 
   }
-  
-  .port:last-child{
+  .portfolio-bl{
+    height: 200px;
     border-bottom: 1px solid; 
-    padding-bottom: 50px;
   }
-  
-  .portfolio h2,
-  .setup h2{
-    font-family: "Poppins", sans-serif;
-    font-size: 1.8rem;
-  }
+
   .source_btn{
-    background-color: var(--main-dark);;
+    background-color: var(--colordark);;
     width: 10%;
     padding: 10px 55px;
     display: flex;
     align-items: center;
-    color: var(--main-blue);;
-    border: 1px solid var(--main-blue);;
+    color: var(--colorblue);;
+    border: 1px solid var(--colorblue);;
     justify-content: center;
   }
   
   
   
   .source_btn:hover, .blog:hover{
-    /* border: 1px solid var(--main-pink);; */
-    /* box-shadow: #000 2px 2px 2px; */
-    transition: ease-in-out .3s;
+    transition: ease-in-out .2s;
   }
   
   /* footer */
@@ -257,27 +248,30 @@
   }
   
   .blue{
-  color: var(--main-blue);;
+  color: var(--colorblue);;
   }
   
-  .pink{
-    color: var(--main-pink);;
+  .purple{
+    color: var(--colorpink);;
   }
-  
+  .blog-bg{
+    background-color: var(--colordark);;
+  }
+
   .instaLinks{
-    border: 1px solid var(--main-blue);;
+    /* border: 1px solid var(--colorblue);; */
     padding-bottom: 10px;
     padding-left: 10px;
   }
   
   .instaLinks:hover{
-    /* border: 1px solid var(--main-pink);; */
-    border: beige;
+    border: 2px solid var(--colordark);;
   }
   
   .instaLinks:hover h2{
-    color: beige;
+    color:var(--colordark);;
   }
+
   p{
       font-size: x-large;
       color:none;

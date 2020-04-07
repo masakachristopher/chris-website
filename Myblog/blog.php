@@ -1,8 +1,9 @@
 
-      <div class="d-flex justify-content-center">
+      <div class="d-flex justify-content-center ">
       <h2 class="h-title d-flex justify-content-center align-content-center">BLOG PAGE</h2>
-      </div>  
-      <div class="container">
+      </div>
+      
+      <div class="container ">
           <div class="row">
               <div class="col-lg-8 mb-5 mb-lg-0">
                   <div class="blog_left_sidebar">
@@ -44,5 +45,6 @@
               </div>
           </div>
       </div>
+      
 
       
