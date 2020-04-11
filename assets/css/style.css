@@ -1,12 +1,11 @@
 
 :root{
-    --colorpink: #d81751;
+    --colorpink: rgb(148, 74, 182);
     --colorblue: #00adb5;
     --colordark: rgb(19, 6, 6);
     --colorsilver: rgb(224, 213, 213);
     --colordblue:rgb(52, 52, 148);
     --colorlight:rgb(5, 81, 83);
-    
   }
   
   h1{
@@ -177,6 +176,7 @@
   .portfolio{
     height: 200px;
     border-top: 1px solid; 
+  
   }
   .portfolio-bl{
     height: 200px;
@@ -251,7 +251,7 @@
   color: var(--colorblue);;
   }
   
-  .pink{
+  .purple{
     color: var(--colorpink);;
   }
   .blog-bg{
@@ -276,3 +276,9 @@
       font-size: x-large;
       color:none;
   }
+  /* .shell{
+    border: 1px solid var(--colorblue);;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 2px;
+  } */

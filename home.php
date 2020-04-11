@@ -1,6 +1,5 @@
 
     
-<main>    
     <div class=" d-flex justify-content-left ">
                 <div class="container">
                     <div class="row">
@@ -15,9 +14,9 @@
                     </div>
                 </div>
          </div>
-</main>   
+  
     <div class="d-flex justify-content-center align-items-center p-2">
-            <div class="">
+            <div>
                 <div class="row d-flex justify-content-center">
                     <!-- <div class="col-sm-1">
                     </div> -->
@@ -27,27 +26,28 @@
                             </div>
                     </div>
                     <div class="col-sm-6">
-                        <!-- <div class="blockquote" > -->
+                        <div class="blockquote" >
                             <h2 class="headline mb-3 text-capitalize ">hello, I am chris!</h2>
                                 <p> Currently, I am learning<span><span class="blue text-uppercase"> web </span></span> <span>and</span><span class="blue text-uppercase"> android </span> Development.<br>
-                                    Also, I am bachelor's degree in Computer science student at <span class="pink">UDSM</span><br>
+                                    Also, I am bachelor's degree in Computer science student at <span class="purple">UDSM</span><br>
                                     I deal with different web frameworks such as <span class="blue">bootstrap</span>, <span class="blue">google's flutter<span> and </span>php-laravel.</span>
                                 </p>
-                        <!-- </div> -->
+                        </div>
                     </div>
                 </div>
 
-                <div class="d-flex justify-content-center p-2">
-                        <div class="col-7">
-                            <h2 class="text-uppercase d-flex justify-content-center">other interests</h2>
+                <div class="d-flex justify-content-center p-2 ">
+                        <div class="col-7 ">
+                            <!-- <h2 class="text-uppercase d-flex justify-content-center">other interests</h2> -->
                             <p class=""><span> Also, in networking I plan to deal with<span class="blue"> CCNA (Cisco Certified Network Associate). </span> 
                              Is an information technology (IT) certification from Cisco Systems.</span> </p>
 
-                            <p>My concern with <span class="pink">CISCO </span> is all about knowledge for <span class="pink">routing</span>, <span class="pink">switching</span>  and <span class="pink">all wireless essentials</span>. Moreover, competence in <span class="text-uppercase blue">network security</span>. </p>
+                            <p>My concern with <span class="purple">CISCO </span> is all about knowledge for <span class="purple">routing</span>, <span class="purple">switching</span>  and <span class="purple">all wireless essentials</span>. Moreover, competence in <span class="text-uppercase blue">network security</span>. </p>
                         </div>
-                </div>
-                <div>      
-                  <h2 class="text-uppercase d-flex justify-content-center">connect with me</h2>
+                </div>    
+                
+                <div class="">      
+                  <h2 class="text-lowercase d-flex justify-content-center">connect with me</h2>
                     <div class="row d-flex justify-content-center">
                         <div class="col-md-2 text-lowercase">
                             <div class="wel_item d-flex justify-content-center">
@@ -78,7 +78,7 @@
             </div>
     </div>
     
-</main>              
+            
                         
                    
                 

@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html class="fontawesome-i2svg-active fontawesome-i2svg-complete" lang="en">
 <head>
-    <link rel="shortcut icon" href="chrisweb.ico">
-    <link rel="shortcut icon" href="chrisweb.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+    <link rel="icon" href="assets/favicon/favicon.ico">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -35,7 +38,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">         
                 <ul class="navbar-nav ml-auto text-right">
                     <li class="nav-item">
-                        <a class="navbar-brand logo" href="index.php"><img class="img-fluid " height="95px" src="chrisweb.ico"  alt="logo"></a>
+                        <a class="navbar-brand logo" href="index.php"><img class="img-fluid " height="95px" src="assets/favicon/apple-touch-icon.png"  alt="logo"></a>
                     </li>
                    
                 </ul>
@@ -88,7 +91,7 @@
     </div>
     <div class="d-flex justify-content-center">
         <footer class="d-flex justify-content-center">
-           <span> <span>&copy 2019-<?php echo date("Y");?></span> , this site developed by chris</span>
+           <span> <span>&copy 2019-<?php echo date("Y");?></span> ,this site developed by chris</span>
         </footer>
     </div>
       
