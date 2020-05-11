@@ -36,11 +36,10 @@
                     </li> -->
                 </ul>
                 <div class="collapse navbar-collapse" id="navbarResponsive">         
-                <ul class="navbar-nav ml-auto text-right">
+                <ul class="navbar-nav ml-auto text-auto">
                     <li class="nav-item">
-                        <a class="navbar-brand logo" href="index.php"><img class="img-fluid " height="95px" src="assets/favicon/apple-touch-icon.png"  alt="logo"></a>
+                        <a class="navbar-brand logo" href="index.php"><img class="img-fluid " height="50px" src="assets/favicon/apple-touch-icon.png"  alt="logo"></a>
                     </li>
-                   
                 </ul>
                 </div>  
             </div>
@@ -91,7 +90,7 @@
     </div>
     <div class="d-flex justify-content-center">
         <footer class="d-flex justify-content-center">
-           <span> <span>&copy 2019-<?php echo date("Y");?></span> ,this site developed by chris</span>
+           <span> <span>&copy 2019-<?php echo date("Y");?></span> </span>
         </footer>
     </div>
       
