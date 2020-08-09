@@ -5,7 +5,7 @@
         <div class="col-lg-10 ">
           <h2 class="pink">chris website</h2>
             <p>PHP, Bootstrap</p>
-            <span><a class="" href="#"><span class="source_btn"><span><i></i></span> Source</span></a></span>
+            <span><a class="" href="https://github.com/masakachristopher/chris-website/"><span class="source_btn"><span><i></i></span> Source</span></a></span>
         </div>
 <!--         <div class="col-lg-10 ">
           <h2 class="pink">uni news room</h2>
