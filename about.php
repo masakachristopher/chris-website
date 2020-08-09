@@ -5,7 +5,7 @@
                             <div class=" text-capitalize justify-content-left">
                                 <div class=" col-lg-12">
                                     <h1>christopher masaka</h1>
-                                    <h3 class="text-uppercase">Developer</h3>
+                                    <h3 class="text-uppercase">Full Stack Dev</h3>
                                 </div>
                             </div>
                         </div>
