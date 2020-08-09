@@ -18,8 +18,8 @@
                 <div class="d-flex justify-content-center portfolio">
                         <div class="blockquote" >
                             <p>Currently, a Computer Science student</p>
-                            <p><span class="purple">Languages:</span> java, JS, PHP</p>  
-                            <p><span class="purple">Technologies:</span> PHP-laravel, firebase, React, React-Native, Bootstrap </p>  
+                            <p><span class="purple">Languages:</span> java, JS, php</p>  
+                            <p><span class="purple">Technologies:</span> php-laravel, firebase, React, React-Native, Bootstrap </p>  
                         </div>
                 </div>
                                 
