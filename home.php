@@ -37,7 +37,7 @@
                         </div> 
                         <div class="col-md-3 text-lowercase">
                             <div class="wel_item d-flex justify-content-center">
-                                <a href="#" class="social_link" title="twitter"><span>twitter</span></a>
+                                <a href="https://twitter.com/masaka_chris" class="social_link" title="twitter"><span>twitter</span></a>
                             </div>
                         </div> 
                         <div class="col-md-3 text-lowercase">
