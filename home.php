@@ -19,8 +19,8 @@
                         <div class="blockquote" >
                             <p>Currently, a Computer Science student</p>
                             <p><span class="purple">Languages:</span> java, JS, php</p>  
-                            <p><span class="purple">Technologies:</span> php-laravel, firebase, React, React-Native, Bootstrap </p>  
-                        </div>
+                            <p><span class="purple">Technologies & frameworks:</span> NodeJS, ExpressJS, Git, React, React-Native, MongoDB (not too deep) , MySQL </p>
+                       </div>
                 </div>
                                 
                 <div class="justify-content-center" >  
